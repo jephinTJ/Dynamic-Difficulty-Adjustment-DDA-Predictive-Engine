@@ -1,0 +1,5 @@
+Project Name: "Neural-DDA: Real-Time Player Churn Prediction & Dynamic Difficulty Adjustment"
+
+The Goal: Build a Deep Learning system that monitors player behavior and predicts "Rage Quitting" (Churn) before it happens.
+
+The "So What?" (Why it matters): In the 2026 market, keeping a user is 5x cheaper than buying a new one. Your model identifies the exact moment a player gets too frustrated to continue, allowing the game to "help" them and keep them playing.
